@@ -16,7 +16,7 @@ Please kindly cite the following paper if you have used our dataset:
 
 ```
 @inproceedings{appicharla-etal-2021-edumt,
-    title = "{E}du{MT}: Developing Machine Translation System for Educational Content in {I}ndian Languages",
+    title = "EduMT: Developing Machine Translation System for Educational Content in Indian Languages",
     author = "Appicharla, Ramakrishna  and
       Ekbal, Asif  and
       Bhattacharyya, Pushpak",
